@@ -6,7 +6,7 @@ A Python CLI tool that calculates the minimum truck fleet required to serve a lo
 
 ## The problem it solves
 
-This tool sizes the fleet three ways, from most simpe to most precise, so you can see both the safe upper bound and the tightest defensible target.
+This tool sizes the fleet three ways, from most simple to most precise, so you can see both the safe upper bound and the tightest defensible target.
 
 ---
 
