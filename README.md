@@ -135,6 +135,10 @@ user query → Claude parses → ScenarioChange list → apply_scenario() → 3 
 | `/clear` | Clear the terminal screen |
 | `/quit` | Exit |
 
+<p align="center">
+<img src="./cli-commands.jpg" alt="Local File in Working Folder" width="350" />
+</p>
+
 ### Planning analyst
 
 `/planning-analyst` makes two sequential Claude calls:
