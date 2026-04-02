@@ -106,6 +106,15 @@ user query → Claude parses → ScenarioChange list → apply_scenario() → 3 
 "Availability drops to 80% — can cargo relocation offset the fleet increase?"
 "Set truck availability to 88% then increasing tractor maintenance to 0.33"
 ```
+
+<p align="center">
+<img src="./cli-whatif.jpg" alt="Local File in Working Folder" width="900" />
+</p>
+
+<p align="center">
+<img src="./cli-whatifoutput.jpg" alt="Local File in Working Folder" width="950" />
+</p>
+
 ---
 
 ## Slash commands
