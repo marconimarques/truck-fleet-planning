@@ -46,6 +46,14 @@ set ANTHROPIC_API_KEY=your_key_here      # Windows
 python runmodel.py
 ```
 
+<p align="center">
+<img src="./cli-onboarding.jpg" alt="Local File in Working Folder" width="950" />
+</p>
+
+<p align="center">
+<img src="./cli-baseline.jpg" alt="Local File in Working Folder" width="550" />
+</p>
+
 Results are printed to the console and saved as versioned CSVs in `outputs/`.
 
 ---
