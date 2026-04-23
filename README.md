@@ -104,7 +104,7 @@ user query → Claude parses → ScenarioChange list → apply_scenario() → 3 
 ```
 "Set fuel to $3.80/km and relocate the volume"
 "Availability drops to 80% — can cargo relocation offset the fleet increase?"
-"Set truck availability to 88% then increasing tractor maintenance to 0.33"
+"Set truck availability to 88% then increasing tractor maintenance to 0.37"
 ```
 
 <p align="center">
